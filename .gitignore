@@ -1,0 +1,7 @@
+*.csv
+.envrc
+*.txt
+.venv
+Pipfile*
+*.docx*
+*.ini
