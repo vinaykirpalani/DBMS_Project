@@ -5,3 +5,5 @@
 Pipfile*
 *.docx*
 *.ini
+*.odg
+*.png
